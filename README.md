@@ -17,7 +17,7 @@ This project is an admin dashboard panel implemented in PHP with MySQL database 
 The admin dashboard panel provides an interface to manage students and classes, displaying relevant information and recent activities.
 
 ## Features
-
+[Brief Presentation](https://docs.google.com/presentation/d/1Iw2hppZE5gQ_YpB9CGBGVZDhJ9q9Li8TjMdJe9v-JXY/edit?usp=sharing)
 - Overview of total students and classes
 - Input,Update and Delete records
 - Recent activity display
